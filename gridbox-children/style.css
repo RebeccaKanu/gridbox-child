@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Gridbox Child
+ Description:  Thème enfant de Gridbox
+ Author:       Rebecca
+ Author URI:   https://pehaa.com
+ Template:     gridbox
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+*/
+.header-main.container.clearfix {
+	background-color : #674c45;
+}
+
+footer {
+	background-color : #674c45;
+}
+.more-link{
+	background-color:  #674c45;
+}
+article a img {
+    height: 200px;
+	  object-fit:cover;
+}
